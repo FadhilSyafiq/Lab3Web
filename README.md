@@ -83,3 +83,10 @@ Output:<br>
 ![gambar5](gambar/gambar5.png)<br>
 
 Gambar output menunjukkan hasil akhir halaman setelah ID Selector dan Class Selector diterapkan. Bagian intro mendapatkan pengaturan tampilan tersendiri, sedangkan tombol mendapatkan tampilan berdasarkan class yang digunakan.<br>
+
+### Langkah 5 - Validasi file CSS
+
+Memvalidasi melalui website: https://jigsaw.w3.org/css-validator/<br>
+
+Code:<br>
+![validasi](gambar/validasi.png)
